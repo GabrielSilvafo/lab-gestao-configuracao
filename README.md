@@ -18,9 +18,13 @@ Este projeto foi desenvolvido como parte do laboratório da disciplina de Gestã
 * Linguagem de programação utilizada no projeto
 
 
+# Laboratório de Gestão de Configuração
+
+Projeto desenvolvido para a disciplina de Gestão de Configuração.
+
 ## Autor
 
-Nome Completo: Gabriel Silva Fonseca
+Gabriel Silva
 
 ## Objetivo Acadêmico
 

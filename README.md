@@ -49,7 +49,7 @@ lab-gestao-configuracao/
 
 ## Autor
 
-Nome Completo: Gabriel Silva FOnseca
+Nome Completo: Gabriel Silva Fonseca
 
 ## Objetivo Acadêmico
 

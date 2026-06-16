@@ -1,0 +1,10 @@
+*   [33m27d9c4b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'feature-despedida'
+[31m|[m[32m\[m  
+[31m|[m * [33m565dd69[m feat: adiciona mensagem de despedida
+* [32m|[m [33mcfb73b0[m feat: adiciona mensagem de despedida e adiciona nome do aluno no readme
+[32m|[m[32m/[m  
+* [33m8d5ec39[m feat: adiciona script inicial hello world
+* [33ma07178c[m Update README.md
+* [33mb91ffaa[m Update README.md
+* [33m7273102[m Update README.md
+* [33m800c916[m Initial commit

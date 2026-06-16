@@ -17,35 +17,6 @@ Este projeto foi desenvolvido como parte do laboratório da disciplina de Gestã
 * GitHub
 * Linguagem de programação utilizada no projeto
 
-## Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone <URL_DO_REPOSITORIO>
-```
-
-2. Entre na pasta do projeto:
-
-```bash
-cd lab-gestao-configuracao
-```
-
-3. Execute o arquivo principal conforme a linguagem escolhida.
-
-Exemplo para Python:
-
-```bash
-python main.py
-```
-
-## Estrutura do Projeto
-
-```text
-lab-gestao-configuracao/
-├── README.md
-└── main.py
-```
 
 ## Autor
 
